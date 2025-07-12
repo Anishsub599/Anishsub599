@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/oscarrebel3" target="blank"><img src="https://img.shields.io/twitter/follow/oscarrebel3?logo=twitter&style=for-the-badge" alt="oscarrebel3" /></a> </p>
 
-- 🔭 I’m currently working on [STONK WATCH](https://github.com/Anishsub599/Stonk-Watch)
+- 🔭 I’m currently working on [STONK WATCH](https://github.com/Anishsub599/Chatmate)
 
 - 🌱 I’m currently learning **Python**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Machine learning**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **ASP.NET**
 
 - 📫 How to reach me **anishsubedi@gmail.com**
 
