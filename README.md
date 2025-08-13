@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Subedi</h1>
-<h3 align="center">A passionate flutter developer from Nepal.</h3>
+<h3 align="center">A passionate .NET developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishsub599&label=Profile%20views&color=0e75b6&style=flat" alt="anishsub599" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [CHATMATE](https://github.com/Anishsub599/Chatmate)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **ASP.NEt Core**
 
-- 👯 I’m looking to collaborate on **Python projects**
+- 👯 I’m looking to collaborate on **.Net Projects**
 
 - 🤝 I’m looking for help with **Machine learning**
 
